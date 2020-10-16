@@ -7,3 +7,5 @@
 #   difference
 
 array = [12, 23, 41, 73, 19, 6]
+
+puts "#{array.min}\n#{array.max}\n#{array.max - array.min}"
